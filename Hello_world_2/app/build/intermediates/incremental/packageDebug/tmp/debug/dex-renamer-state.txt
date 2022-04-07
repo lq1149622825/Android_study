@@ -1,4 +1,4 @@
-#Thu Apr 07 17:50:27 CST 2022
+#Thu Apr 07 18:52:52 CST 2022
 base.2=/Users/qiang.lv/Documents/code/Android/Hello_world_2/app/build/intermediates/dex/debug/mergeProjectDexDebug/12/classes.dex
 path.2=12/classes.dex
 base.1=/Users/qiang.lv/Documents/code/Android/Hello_world_2/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
